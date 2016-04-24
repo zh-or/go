@@ -1,0 +1,14 @@
+主网站
+	qlx8.com / www.qlx8.com:80
+用户的网站
+	user.qlx8.com:80
+管理员后台
+    admin.service.qlx8.com:80
+    
+网关解析域名
+	gateway.service.qlx8.com:5000
+长连接解析域名
+	lconn.service.qlx8.com:5002开始
+接口域名
+	rest.service.qlx8.com:80
+	
